@@ -13,3 +13,5 @@ setup(
     }
 
 )
+
+# pip install -e . 
